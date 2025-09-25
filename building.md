@@ -33,7 +33,7 @@
 6. Setup Build Environment
 ```bash
 mkdir ~/opencardev
-git clone https://github.com/opencardev/prebuilts.git prebuilts
+git clone https://github.com/AlexJonker/crankshaft-prebuilts.git prebuilts
 cd prebuilts/buildsystem
 ./1_prepare_build_system.sh
 ./2_build_aasdk.sh
